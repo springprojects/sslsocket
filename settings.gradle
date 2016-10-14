@@ -1,0 +1,5 @@
+rootProject.name = 'sslsocket'
+
+include 'client'
+
+include 'server'
